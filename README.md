@@ -12,7 +12,7 @@
 - Running Django ToDoList on local host
 
 ### step 1
-1 - Downoload [Python 3.9+](https://www.python.org/) and install it.
+1 - Download [Python 3.9+](https://www.python.org/) and install it.
 
 **OR**
 
