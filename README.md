@@ -51,13 +51,13 @@ Python 3.11.1
 ### step 3 
 1 - Make a git clone of Django ToDoList to your project folder
 ```
-> git clone https://github.com/whosgotch/Django-ToDoList.git
+(venv) > git clone https://github.com/whosgotch/Django-ToDoList.git
 ```
 
 2 - Open project folder with console and run server
 ```
-> cd Django-ToDoList
-> python manage.py runserver
+(venv) > cd Django-ToDoList
+(venv) > python manage.py runserver
 ```
 
 3 - Copy local ip address and paste it into your browser search bar.
