@@ -54,12 +54,12 @@ python -m virtualenv venv
 > git clone https://github.com/whosgotch/Django-ToDoList.git
 ```
 
-2 - Open proejct folder with console and run server
+2 - Open project folder with console and run server
 ```
 > cd todo-list
 > python manage.py runserver
 ```
 
-3 - Copy local ip address and paste into browser search bar.
+3 - Copy local ip address and paste it into your browser search bar.
 
 
