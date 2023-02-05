@@ -56,7 +56,7 @@ Python 3.11.1
 
 2 - Open project folder with console and run server
 ```
-> cd todo-list
+> cd Django-ToDoList
 > python manage.py runserver
 ```
 
