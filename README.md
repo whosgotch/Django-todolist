@@ -58,8 +58,18 @@ Python 3.11.1
 ```
 (venv) > cd Django-ToDoList
 (venv) > python manage.py runserver
+
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+February 05, 2023 - 20:10:14
+Django version 4.1.6, using settings 'todo_list.settings'
+Starting development server at http://127.0.0.1:8000/
+Quit the server with CTRL-BREAK.
+
 ```
 
-3 - Copy local ip address and paste it into your browser search bar.
+3 - Copy 127.0.0.1:8000 and paste it into your browser search bar.
 
 
