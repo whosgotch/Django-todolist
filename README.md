@@ -35,7 +35,7 @@ Python 3.11.1
 ### step 2
 1 - Create virtual environment using virtualenv
 ```
-python -m virtualenv venv
+> python -m virtualenv venv
 ```
 
 2 - Activate virtual environment
