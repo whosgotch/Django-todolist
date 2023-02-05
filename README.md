@@ -58,8 +58,6 @@ Install using *scoop*.
 ```
 (venv) > cd Django-ToDoList
 (venv) > python manage.py runserver
-
-
 ```
 
 3 - Copy 127.0.0.1:8000 and paste it into your browser search bar.
