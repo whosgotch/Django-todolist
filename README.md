@@ -24,7 +24,7 @@ Install using *scoop*.
 2 - Check Python version
 ```
 > python --version
-Python 3.11.1
+
 ```
 
 3 - Install virtualenv with pip install
@@ -59,14 +59,6 @@ Python 3.11.1
 (venv) > cd Django-ToDoList
 (venv) > python manage.py runserver
 
-Watching for file changes with StatReloader
-Performing system checks...
-
-System check identified no issues (0 silenced).
-February 05, 2023 - 20:10:14
-Django version 4.1.6, using settings 'todo_list.settings'
-Starting development server at http://127.0.0.1:8000/
-Quit the server with CTRL-BREAK.
 
 ```
 
