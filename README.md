@@ -1,6 +1,6 @@
 # Django-ToDoList
-[To Do list app](https://whosgotch.pythonanywhere.com/) with User Registration, Login, Search and full Create Read Update and DELETE functionality.
-</br>
+[To Do list app](https://whosgotch.pythonanywhere.com/) mady by @whosgotch.
+
 <p align="center">
    <img src="../master/todolist.png" alt="something went wrong...">
 </p></br>
