@@ -1,11 +1,16 @@
 # Django To-Do List Project
 This repository contains a Django-based To-Do List project. It provides a web application where users can manage their tasks and keep track of their to-do lists. The project is built using Django, Python, HTML, and CSS.
+<p align="center">
+  <img src="gitreadme/index.png" alt="index" /></p>
+
 
 ## Functionality
 - User registration and authentication: Users can sign up and log in to the application.
 - Task management: Users can create, update, and delete tasks.
 - Task filtering: Users can filter tasks based on their status (completed or pending).
 - User-friendly interface: The application has a clean and intuitive interface for easy task management.
+<p align="center">
+  <img src="gitreadme/todolist.gif" alt="todolist" /></p>
 
 ## Technologies Used
 - Python 3.11
@@ -32,6 +37,7 @@ python -m venv env
 3. Activate the virtual environment: 
 </br>
 <i>For Windows:</i>
+
 ```
 venv\Scripts\activate
 ```
